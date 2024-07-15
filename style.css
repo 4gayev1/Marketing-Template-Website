@@ -97,7 +97,7 @@ p {
 /* HOME */
 
 .home {
-    background-image: url(backgroundimg/baner-dec-left.png), url(images/banner-right-image.png);
+    background-image: url(bgImgs/baner-dec-left.png), url(imgs/banner-right-image.png);
     background-repeat: no-repeat;
     background-position: left, right top;
     height: 900px;
@@ -168,7 +168,7 @@ p {
 /* SERVICES*/
 
 .services {
-    background-image: url(backgroundimg/services-left-dec.png), url(backgroundimg/services-right-dec.png);
+    background-image: url(bgImgs/services-left-dec.png), url(bgImgs/services-right-dec.png);
     background-repeat: no-repeat, no-repeat;
     background-position: top left, right bottom;
 
@@ -294,7 +294,7 @@ p {
 
 .plan {
     background-repeat: no-repeat;
-    background-image: url(backgroundimg/tables-left-dec.png), url(backgroundimg/tables-right-dec.png);
+    background-image: url(bgImgs/tables-left-dec.png), url(bgImgs/tables-right-dec.png);
     background-position: 0, right;
 }
 
@@ -321,19 +321,19 @@ p {
 }
 
 .plan-item:nth-child(1) {
-    background-image: url(backgroundimg/first-plan-bg.png);
+    background-image: url(bgImgs/first-plan-bg.png);
     background-size: cover;
 
 }
 
 .plan-item:nth-child(2) {
-    background-image: url(backgroundimg/second-plan-bg.png);
+    background-image: url(bgImgs/second-plan-bg.png);
     background-size: cover;
 
 }
 
 .plan-item:nth-child(3) {
-    background-image: url(backgroundimg/third-plan-bg.png);
+    background-image: url(bgImgs/third-plan-bg.png);
     background-size: cover;
 }
 
@@ -359,7 +359,7 @@ p {
 .seo-input {
     width: 93%;
     height: 330px;
-    background-image: url(backgroundimg/subscribe-bg.png);
+    background-image: url(bgImgs/subscribe-bg.png);
     background-size: cover;
     border-radius: 20px;
     margin-top: 150px;
@@ -421,7 +421,7 @@ p {
 .contact-div {
     margin-top: 200px;
     height: 1100px;
-    background-image: url(backgroundimg/contact-left-dec.png), url(backgroundimg/contact-dec.png);
+    background-image: url(bgImgs/contact-left-dec.png), url(bgImgs/contact-dec.png);
     background-repeat: no-repeat;
     background-position-x: 0, 100%;
     background-position-y: 0, 100%;
@@ -442,7 +442,7 @@ p {
 }
 
 .form {
-    background-image: url(backgroundimg/contact-form-bg.png);
+    background-image: url(bgImgs/contact-form-bg.png);
     background-repeat: no-repeat;
     background-size: cover;
     width: 650px;
